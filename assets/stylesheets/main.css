@@ -70,10 +70,6 @@ input {
 
 /* scene */
 .scene {
-  -webkit-perspective: 3000;
-          perspective: 3000;
-  -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
   background-repeat: no-repeat;
 }
 .scene .pa {
