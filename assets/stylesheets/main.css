@@ -46,12 +46,11 @@ input {
   display: block;
   min-width: 320px;
   margin: 0 auto;
-  max-width: 750px;
+  max-width: 1080px;
 }
 
 /* swiper */
 .swiper-container {
-  position: relative;
   width: 100%;
   height: 100%;
 }
@@ -70,6 +69,7 @@ input {
 
 /* scene */
 .scene {
+  position: relative;
   background-repeat: no-repeat;
 }
 .scene .pa {
